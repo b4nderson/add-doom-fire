@@ -2,7 +2,7 @@
   "name": "add-doom-fire",
   "version": "1.0.0",
   "description": "Adicione doom fire em seu projeto react.js (ou outros frameworks) ou js puro",
-  "main": "fire.js",
+  "main": "./fire.js",
   "repository": "https://github.com/kanrinha/add-doom-fire.git",
   "author": "kanrinha",
   "license": "MIT",
